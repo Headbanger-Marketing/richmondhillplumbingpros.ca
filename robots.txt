@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richmondhillplumbingpros.ca/sitemap-index.xml
