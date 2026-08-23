@@ -1,2 +1,25 @@
 # Richmond Hill Plumbing Pros
-HVAC services in Ontario.
+
+> Richmond Hill Plumbing Pros is a local HVAC company serving Richmond Hill, York, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 884-7163  |  Email: contact@richmondhillplumbingpros.ca  |  Website: https://richmondhillplumbingpros.ca
+
+## Key pages
+
+- [Home](https://richmondhillplumbingpros.ca/): Richmond Hill Plumbing Pros homepage with service overview and FAQ
+- [About](https://richmondhillplumbingpros.ca/about/): About the company and service area
+- [Contact](https://richmondhillplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://richmondhillplumbingpros.ca/services/water-heaters/): Water Heaters in Richmond Hill, Ontario
+- [Drain Cleaning](https://richmondhillplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Richmond Hill, Ontario
+- [Repiping](https://richmondhillplumbingpros.ca/services/repiping/): Repiping in Richmond Hill, Ontario
+- [Fixtures & Toilets](https://richmondhillplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Richmond Hill, Ontario
+- [Leak Detection & Repair](https://richmondhillplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Richmond Hill, Ontario
+- [Sump Pumps & Backwater](https://richmondhillplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Richmond Hill, Ontario
+- [Water Softeners & Filtration](https://richmondhillplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Richmond Hill, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Richmond Hill are answered on the homepage.
